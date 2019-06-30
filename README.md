@@ -14,6 +14,6 @@ App demonstrate how to use brand new SwiftUI + Combine Frameworks with MVVM Arch
 - MacOS 10.15 Catalina
 
 ## Getting Started
-Clone the Repository
-Get the API Key from https://developers.themoviedb.org/3/
-Put API Key in Constants.swift apiKey constant
+- Clone the Repository
+- Get the API Key from https://developers.themoviedb.org/3/
+- Put API Key in Constants.swift apiKey constant
