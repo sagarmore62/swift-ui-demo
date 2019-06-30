@@ -2,7 +2,7 @@
 App demonstrate how to use brand new SwiftUI + Combine Frameworks with MVVM Architecture.
 
 ## App demonstrate following things :
-- How to work with SwiftUI and Server api data
+- Reactive binding between Server api data and SwiftUI
 - Server image caching with SwiftUI
 - How to use UIKit with SwiftUI
 - How to work with List View
