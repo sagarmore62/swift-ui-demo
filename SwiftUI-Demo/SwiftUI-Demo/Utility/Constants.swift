@@ -10,7 +10,7 @@ import Foundation
 
 struct Constants {
     static let domainImage  = "https://image.tmdb.org/t/p/"
-    static let apiKey       = "88c3c89ea75c320742f2d7f94e5dbd39"
+    static let apiKey       = "enter your api key here"
     static let keyPath      = "api_key="
     static let baseUrl      = "https://api.themoviedb.org/3"
 }
